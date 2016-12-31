@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_create_order">Create Order</string>
+    <string name="title_activity_order">Order Activity</string>
+    <string name="action_share">Share</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="sepak">
+        <item>Real Madrid</item>
+        <item>Barcelona</item>
+    </string-array>
+    <string-array name="volley">
+        <item>Volley Pantai</item>
+        <item>Volley 9</item>
+    </string-array>
+    <string-array name="basket">
+        <item>La Galaxy</item>
+        <item>Warrios</item>
+    </string-array>
+    <string-array name="judul">
+        <item>Beranda</item>
+        <item>Sepak Bola</item>
+        <item>Bola Volley</item>
+        <item>Bola Basket</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
